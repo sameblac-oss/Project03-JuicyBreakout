@@ -4,7 +4,7 @@
 Project03-Juicy Breakout
 10/16/2025
 
-Description
+Description:
 Take 2D Brick Breaker game and make it as "juicy" as possible
 
 ## Implementation
