@@ -8,7 +8,7 @@ Description
 Take 2D Brick Breaker game and make it as "juicy" as possible
 
 ## Implementation
--I added a background to the game (+1)
+-I added a background to the game and menu (+1)
 -Changed font style for the score, lives, block counter, main menu, and end menu (+1)
 
 ## References
