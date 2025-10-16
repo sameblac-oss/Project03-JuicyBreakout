@@ -1,15 +1,17 @@
 # Project03-JuicyBreakout
 
 # Project Name
-Context and date
+Project03-Juicy Breakout
+10/15/2025
 
 Description
+Take 2D Brick Breaker game and make it as "juicy" as possible
 
 ## Implementation
-Which features you included
+-I added a background to the game (+1)
 
 ## References
 
 ## Future Development
 
-## Created by
+## Created by Sam Black 
